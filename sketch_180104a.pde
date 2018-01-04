@@ -1,9 +1,9 @@
 
-ArrayList<Circle> circles;
+ArrayList<Circle> circles; //LoneWolfsMoon was here
 ArrayList<PVector> spots;
 PImage img;
 void setup() {
-  size(540, 960);
+  size(540, 960); // resoultion of image stored in DATA
   spots = new ArrayList<PVector>();
   img = loadImage("2018.png");
   img.loadPixels();
