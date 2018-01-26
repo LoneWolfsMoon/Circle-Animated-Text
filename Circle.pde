@@ -1,8 +1,4 @@
-// Daniel Shiffman
-// http://codingtra.in
-// http://patreon.com/codingtrain
-// Code for: https://youtu.be/QHEQuoIKgNE
-
+//LoneWolfsMoon was here
 class Circle {
   float x;
   float y;
